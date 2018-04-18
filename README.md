@@ -4,6 +4,7 @@ LeonFoxy Soundboard
 A soundboard of random clips from Leon's videos
 
 ## Updates
+- Wednesday 18th April 2018 :: 1 New Sound
 - Friday 13th April 2018 :: 7 New Sounds
 
 
